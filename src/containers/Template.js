@@ -12,7 +12,7 @@ class Template extends Component {
       <MuiThemeProvider>
         <div>
           <header>
-            <h1>TicTacTuring</h1>
+            <h1>Tic-tac Demo</h1>
             <RaisedButton label={'Test Button'} primary={true} onTouchTap={()=>{console.log('hello, I work')}}/>
           </header>
           <main>
